@@ -1,0 +1,16 @@
+{
+    "ssid":"VerticalInv",
+    "password":"@VIL@123",
+    "ru_tag":"demo_001",
+    "ping_topic":"28jyotipingtran",
+    "rfid_topic":"jyotilocal",
+    "status":1,
+    "mag_1":2,
+    "mag_2":2,
+    "mag_3":2,
+    "mag_4":2,
+    "mag_5":1,
+    "mag_6":1,
+    "mag_7":1,
+    "mag_8":1
+} 
